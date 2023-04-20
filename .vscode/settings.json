@@ -1,0 +1,5 @@
+{
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "git.ignoreLimitWarning": true,
+    "typescript.enablePromptUseWorkspaceTsdk": true
+}
